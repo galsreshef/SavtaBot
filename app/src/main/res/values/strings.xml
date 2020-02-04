@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Savta BOT</string>
+    <string name="none" />
+    <string name="type_a_message">Type a Message</string>
+    <string name="choose_background">Choose Background</string>
+    <string name="image_splash_screen_app">ImageSplashScreenApp</string>
+    <string name="gal_reshef_eliyahu_yakubov"><![CDATA[Gal Reshef & Eliyahu Yakubov]]></string>
+    <string name="grey_studio">Grey Studio</string>
+
+</resources>
