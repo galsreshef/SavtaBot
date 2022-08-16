@@ -4,7 +4,7 @@ Created for the elderly who sometimes suffers from a lack of communication with 
 
 SavtaBot is an Android app, impleminting Google's DialogFlow and TTS services.
 
-- Download [APK](https://drive.google.com/open?id=16HQOyqmU6VcXax6_-wF9yCHoIWsIHaC2) and Install SavtaBot directly on your Android device.
+- Download [APK](https://github.com/galsreshef/SavtaBot/blob/master/SavtaBot%201.2%20Submit.apk) and Install SavtaBot directly on your Android device.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
